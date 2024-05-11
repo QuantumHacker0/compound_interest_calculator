@@ -11,9 +11,11 @@ interestRate: The interest rate that will be applied every year, quarter, or mon
 
 inerestCompYearly: The frequency that the interest will be applied.  Follow the below examples for rates for accurate input
   Yearly = 1
-  Every 6 months = .5
-  Quarterly = .25
-  Monthly = .08333
+  Every 6 months = 2
+  Quarterly = 4
+  Monthly = 12
+  Weekly = 52
+  Daily = 365
 
 years: The amount of time the principal will be accruing interest.
 
