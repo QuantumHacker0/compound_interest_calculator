@@ -10,11 +10,11 @@ principal: The starting amount
 interestRate: The interest rate that will be applied every year, quarter, or month (as input by the next variable)
 
 inerestCompYearly: The frequency that the interest will be applied.  Follow the below examples for rates for accurate input
-  Yearly = 1
-  Every 6 months = 2
-  Quarterly = 4
-  Monthly = 12
-  Weekly = 52
+  Yearly = 1,
+  Every 6 months = 2,
+  Quarterly = 4,
+  Monthly = 12,
+  Weekly = 52,
   Daily = 365
 
 years: The amount of time the principal will be accruing interest.
